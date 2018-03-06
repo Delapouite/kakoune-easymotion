@@ -16,9 +16,11 @@ The script defines a few commands:
   - `easy-motion-w`
   - `easy-motion-W`
   - `easy-motion-j`
+  - `easy-motion-f`
   - `easy-motion-b`
   - `easy-motion-B`
   - `easy-motion-k`
+  - `easy-motion-alt-f`
   - `easy-motion-on-regex`
  
 It uses one option, `em_jumpchars` which defaults to `a..z`,
